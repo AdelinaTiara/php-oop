@@ -9,5 +9,7 @@
             "email": "adelina.tiara@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "monolog/monolog": "dev-master"
+    }
 }
