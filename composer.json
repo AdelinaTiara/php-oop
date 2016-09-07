@@ -9,5 +9,7 @@
             "email": "adelina.tiara@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/var-dumper": "dev-master"
+    }
 }
