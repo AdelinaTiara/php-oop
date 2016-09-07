@@ -1,0 +1,13 @@
+{
+    "name": "adelinatiara/php-oop",
+    "description": "This is my very first composer project.",
+    "type": "project",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Adelina TP",
+            "email": "adelina.tiara@gmail.com"
+        }
+    ],
+    "require": {}
+}
